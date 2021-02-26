@@ -94,3 +94,25 @@ margin-top:64px;
   height: 8px;
   background-color: #6236ffbd;
 }
+
+.boxdroite{
+    background: linear-gradient(#fcce00, transparent) left repeat, url(ordinateur.png);
+    justify-content: flex-end;
+    flex-basis: 0;
+    flex-grow: 1;
+    margin-top: 32px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .boxdroite img {
+    mix-blend-mode: darken; 
+
+    }
+
+     .boxdroite2 {
+    text-align: justify;
+    margin-right: 32px;
+    flex-basis: 0;
+    flex-grow: 1;
+  }
