@@ -127,3 +127,35 @@ margin-top:64px;
   margin-top: 32px;
 
    }
+
+   .boxgauche {
+      text-align: justify;
+      margin-right: 32px;
+      flex-basis: 0 ;
+      flex-grow: 1;
+    }
+
+
+
+     .boxgauche2{
+    background: linear-gradient(#ff6b00, transparent) left repeat, url(bitmap2.png);
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-right: 32px;
+    flex-basis: 0;
+  flex-grow: 1;
+  }
+  
+  .boxgauche2 img {
+    mix-blend-mode: darken;
+  }
+
+ .boxgauche3{
+      text-align: justify;
+      margin-right: 32px;
+      flex-basis:0;
+      flex-grow:1;
+    
+    }
+
