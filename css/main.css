@@ -159,3 +159,37 @@ margin-top:64px;
     
     }
 
+.box {
+  display: flex;
+}
+
+
+.box2{
+    
+      display:flex;
+      background: linear-gradient(red,transparent)left repeat;
+    }
+
+.box2 p {
+
+  color: white
+}
+
+.box3{
+    
+        display:flex;
+        background: linear-gradient( #b620e0,transparent)left repeat;
+      }
+      .box3 p {
+        color: white;
+      }
+
+ .box4{
+    
+        display:flex;
+        background: linear-gradient( #6236ff,transparent)left repeat;
+      }
+      .box4 p {
+        color: white;
+      }
+
