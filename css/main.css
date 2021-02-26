@@ -95,6 +95,41 @@ margin-top:64px;
   background-color: #6236ffbd;
 }
 
+.button { 
+align-content: right;
+border: 2px solid #fcce00;
+padding: 13px;
+border-radius: 15px;
+font-weight: bold;
+color: #fcce00;
+text-decoration: none;
+float: right;
+ }
+
+
+ .button2 { 
+   align-content:right;
+    border: 2px solid #ff6b00;
+    padding: 15px;
+    border-radius:15px;
+    font-weight: bold;
+    color:#ff6b00;
+    text-decoration: none;
+    float: right;
+     }
+
+
+     .button3 {
+    align-content:right;
+    border: 2px solid white;
+    padding: 15px;
+    border-radius:15px;
+    font-weight: bold;
+    color:white;
+    text-decoration: none;
+    float: left;
+     }
+
 .boxdroite{
     background: linear-gradient(#fcce00, transparent) left repeat, url(ordinateur.png);
     justify-content: flex-end;
